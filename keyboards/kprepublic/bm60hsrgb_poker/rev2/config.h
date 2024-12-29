@@ -17,13 +17,15 @@
 
 #define IS31FL3733_I2C_ADDRESS_1 IS31FL3733_I2C_ADDRESS_GND_GND
 #define IS31FL3733_LED_COUNT 61
+#define GRAVE_ESC_CTRL_OVERRIDE
+#define GRAVE_ESC_GUI_OVERRIDE
 
 // Underglow LEDs are WS2812, but someone might want to use RGBLIGHT for them;
 // don't use those LEDs in RGB Matrix in that case.
 #ifdef RGBLIGHT_ENABLE
-#    define WS2812_LED_COUNT 0
+#    define WS2812_LED_TOTAL 0
 #else
-#    define WS2812_LED_COUNT 6
+#    define WS2812_LED_TOTAL 6
 #endif
 
-#define RGB_MATRIX_LED_COUNT (IS31FL3733_LED_COUNT + WS2812_LED_COUNT)
+#define RGB_MATRIX_LED_COUNT (IS31FL3733_LED_COUNT + WS2812_LED_TOTAL)
