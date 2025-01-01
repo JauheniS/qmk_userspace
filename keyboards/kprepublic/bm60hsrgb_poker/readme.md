@@ -25,18 +25,17 @@ Add-ons:
 * Purple-colored Caps Lock when pressed
 * ~ is Shift + Esc or Fn + Shift + Esc
 * Fn key (1st layer):
-
-* *    Back slash is BOOT
-* *    ESC is GRAVE (` or ~)
-* *    Backspace is DEL
-* *    1 to + - f1-f12
-* *    WASD are arrows
-* *    Z changes RGB Mod
-* *    X and C - Hue increase and decrease
-* *    V and B - Saturation increase and decrease
-* *    N and M - Value (Brightness) increase and decrease
-* *    < and > - Page Up and Page Down
-* *    /? - RGB Toggle on/off
+    * Back slash is BOOT
+    * ESC is GRAVE (` or ~)
+    * Backspace is DEL
+    * 1 to + - f1-f12
+    * WASD are arrows
+    * Z changes RGB Mod
+    * X and C - Hue increase and decrease
+    * V and B - Saturation increase and decrease
+    * N and M - Value (Brightness) increase and decrease
+    * /? - RGB Toggle on/off
+    * < and > - Page Up and Page Down
 
 * Right win works as 2nd layer switch
 
