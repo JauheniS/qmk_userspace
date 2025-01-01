@@ -1,6 +1,6 @@
 # BM60 Poker 60% "Usable60" (Windows, Linux and MacOS layouts)
 
-![BM60HSRGB_poker](https://i.imgur.com/uuYP8OIl.jpeg)
+![BM60HSRGB_poker](https://i.imgur.com/OzxCrGb.png)
 
 A 60% hotswap inswitch RGB (north facing) keyboard from KP Republic.
 
