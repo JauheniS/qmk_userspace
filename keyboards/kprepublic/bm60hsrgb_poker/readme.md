@@ -26,20 +26,20 @@ Add-ons:
 * ~ is Shift + Esc or Fn + Shift + Esc
 * Fn key (1st layer):
 
-    Back slash is BOOT
-    ESC is GRAVE (` or ~)
-    Backspace is DEL
-    1 to + - f1-f12
-    WASD are arrows
-    Z changes RGB Mod
-    X and C - Hue increase and decrease
-    V and B - Saturation increase and decrease
-    N and M - Value (Brightness) increase and decrease
-    < and > - Page Up and Page Down
-    /? - RGB Toggle on/off
+* *    Back slash is BOOT
+* *    ESC is GRAVE (` or ~)
+* *    Backspace is DEL
+* *    1 to + - f1-f12
+* *    WASD are arrows
+* *    Z changes RGB Mod
+* *    X and C - Hue increase and decrease
+* *    V and B - Saturation increase and decrease
+* *    N and M - Value (Brightness) increase and decrease
+* *    < and > - Page Up and Page Down
+* *    /? - RGB Toggle on/off
 
 * Right win works as 2nd layer switch
 
-    Right Win + Left Win - Win Key lock toggle on/off
+* *    Right Win + Left Win - Win Key lock toggle on/off
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
