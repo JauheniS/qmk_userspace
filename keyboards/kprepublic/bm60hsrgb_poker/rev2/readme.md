@@ -18,7 +18,7 @@ Make example (Windows and Linux) for this keyboard (after setting up your build 
 
 Make example (MacOS) for this keyboard:
 
-    make kprepublic/bm60hsrgb_poker/rev2:JauheniS_macos
+    make kprepublic/bm60hsrgb_poker/rev2:JauheniSMacOS
 
 Add-ons:
 
